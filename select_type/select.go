@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
+	"github.com/patyhank/resourceup/item_model"
 	"reflect"
-	"resourceup/item_model"
 )
 
 type Value[T ~string] struct {

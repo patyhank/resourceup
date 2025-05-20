@@ -2,7 +2,7 @@ package model
 
 import (
 	"encoding/json"
-	"resourceup/item_model"
+	"github.com/patyhank/resourceup/item_model"
 )
 
 type Model struct {

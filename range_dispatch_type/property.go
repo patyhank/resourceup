@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"resourceup/item_model"
+	"github.com/patyhank/resourceup/item_model"
 	"strconv"
 )
 

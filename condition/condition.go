@@ -2,8 +2,8 @@ package condition
 
 import (
 	"encoding/json"
+	"github.com/patyhank/resourceup/item_model"
 	"reflect"
-	"resourceup/item_model"
 )
 
 type ConditionContainer struct {
